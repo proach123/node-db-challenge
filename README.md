@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+SQL is a language and relational databases is just a model for setting up databases so that they have one primary key etc.
+
 - [ ] Why do tables need a `primary key`?
+
+To link them to other table's foriegn keys.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+A foriegn key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+Multiple records in a table are associated with multiple records in another table. The records are joined with eachother's primary key.
 
 ## Minimum Viable Product
 
